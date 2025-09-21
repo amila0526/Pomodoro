@@ -2,7 +2,7 @@
 just a simple pomodoro timer
 
 Dependencies:
--- tkinter
--- random
--- math
--- pygame
+- tkinter
+- random
+- math
+- pygame
